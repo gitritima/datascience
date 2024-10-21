@@ -4,4 +4,4 @@ import seaborn as sns
 import plotly.express as ps
 import plotly.graph_objects as go
 
-st.title("Titanic Data Analytsis")
+st.title("Titanic Data Analysis")
